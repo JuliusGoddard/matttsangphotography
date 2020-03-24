@@ -3,11 +3,18 @@
   color: white; }
 
 #navbar {
-  font-size: 1em;
+  font-size: 1.3em;
   font-weight: bold; }
 
+#carouselExampleSlidesOnly {
+  height: 95%;
+  width: 95%; }
+
 #introduction {
-  height: 325px; }
+  height: 100%; }
+
+#logo {
+  margin-right: 150px; }
 
 #row1 {
   display: -webkit-box;
@@ -16,6 +23,13 @@
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   padding: 0 4px; }
+
+#aboutgrid {
+  font-size: 1.1em; }
+
+#carouselExampleControls {
+  height: 85%;
+  width: 85%; }
 
 .column {
   -webkit-box-flex: 25%;

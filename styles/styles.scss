@@ -4,18 +4,35 @@
 }
 
 #navbar {
-  font-size: 1em;
+  font-size: 1.3em;
   font-weight: bold;
 }
 
-#introduction {
-  height: 325px;
+#carouselExampleSlidesOnly {
+  height: 95%;
+  width: 95%;
 }
 
+#introduction {
+  height: 100%;
+}
+
+#logo {
+  margin-right: 150px;
+}
 #row1 {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
+}
+
+#aboutgrid {
+  font-size: 1.1em;
+}
+
+#carouselExampleControls {
+  height: 85%;
+  width: 85%;
 }
 
 .column {
